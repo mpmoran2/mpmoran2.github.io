@@ -1,11 +1,11 @@
 # Site settings
-author: Megan (AKA Pilahi) Moran
-title: 
+author: Megan 'Pilahi" Moran
+title: Flower at Flatiron
 header-img: img/home-bg.png
 email: kamokumoran@gmail.com
-copyright_name: Megan (AKA Pilahi) Moran
+copyright_name: Megan 'Pilahi" Moran
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Flower Obsessed and Coding
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  mpmoran2
